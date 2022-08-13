@@ -1,0 +1,36 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/gba /var/games/CLV-A-OLTAO/jamoll.gba.7z
+Path=/var/saves/CLV-A-OLTAO
+Name=Jamall Walking
+CePrefix=
+Icon=/var/games/CLV-A-OLTAO/CLV-A-OLTAO.png
+
+[X-CLOVER Game]
+Code=CLV-A-OLTAO
+TestID=0
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=2021-08-31
+SaveCount=0
+SortRawTitle=jamall walking
+SortRawPublisher=ANGELA PLAYS!, REDXSTUDIOZ
+Copyright=No Royalties held, Open Source Media
+
+[m2engage]
+regionTag=
+sortRawGenre=Educational
+index=
+demo_time=
+country=us
+
+[Description]
+Text = 
+Jamall Walks. That's basically it lmao
+Original Video: https://youtu.be/cQxE6kC1BGA
+
+
+----------------------------------------------------------------------------------------------
+Original Video Created and Animated by AngelaPlays!
+Porting of Video to GBA done by Red X/RedXStudioz
